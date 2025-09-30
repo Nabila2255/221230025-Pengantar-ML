@@ -1,5 +1,5 @@
 # 221230025-Pengantar-ML
-Repository untuk mata kuliah Pengantar Machine Learning - Nabila Nurwany Rahamirza - 221230025
+
 **Nama:** Nabila Nurwany Rahamirza
 **NIM:** 221230025
 **Kelas:** 04 A
